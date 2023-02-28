@@ -7,6 +7,8 @@ public class Main {
         bookkipers.salarytipe();
         Managers managers = new Managers();
         managers.salarytipe();
+        Top_Managers topManagers = new Top_Managers();
+        topManagers.salarytipe();
 
     }
 }
