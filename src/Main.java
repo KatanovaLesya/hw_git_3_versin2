@@ -9,6 +9,8 @@ public class Main {
         managers.salarytipe();
         Top_Managers topManagers = new Top_Managers();
         topManagers.salarytipe();
+        Founders founders = new Founders();
+        founders.dividend();
 
     }
 }
