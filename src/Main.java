@@ -3,6 +3,8 @@ public class Main {
 
         Employee employee = new Employee();
         employee.salarytipe();
+        Bookkipers bookkipers = new Bookkipers();
+        bookkipers.salarytipe();
 
     }
 }
