@@ -5,6 +5,8 @@ public class Main {
         employee.salarytipe();
         Bookkipers bookkipers = new Bookkipers();
         bookkipers.salarytipe();
+        Managers managers = new Managers();
+        managers.salarytipe();
 
     }
 }
